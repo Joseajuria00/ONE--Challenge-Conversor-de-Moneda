@@ -41,6 +41,8 @@ public class Main {
                         break;
                     case 4:
                         break outerLoop;
+                    default:
+                        System.out.println("Elija una de las opciones del menu");
                 }
             } catch (Exception e){
                 System.err.println("ERROR: Opcion ingresada invalida");

@@ -29,26 +29,6 @@ public class ExchangeRateService {
         return jsonObject;
     }
     public static Map<Integer, Currency> getAvailableCurrencies() {
-        /*List<Currency> currencies = new ArrayList<>();
-        currencies.add(new Currency("USD", "United States Dollar"));
-        currencies.add(new Currency("EUR", "Euro"));
-        currencies.add(new Currency("ARS", "Argentine Peso"));
-        currencies.add(new Currency("BOB", "Bolivian Boliviano"));
-        currencies.add(new Currency("BRL", "Brazilian Real"));
-        currencies.add(new Currency("CLP", "Chilean Peso"));
-        currencies.add(new Currency("COP", "Colombian Peso"));
-        currencies.add(new Currency("CRC", "Costa Rican Colón"));
-        currencies.add(new Currency("CUP", "Cuban Peso"));
-        currencies.add(new Currency("DOP", "Dominican Peso"));
-        currencies.add(new Currency("GTQ", "Guatemalan Quetzal"));
-        currencies.add(new Currency("HNL", "Honduran Lempira"));
-        currencies.add(new Currency("MXN", "Mexican Peso"));
-        currencies.add(new Currency("NIO", "Nicaraguan Córdoba"));
-        currencies.add(new Currency("PAB", "Panamanian Balboa"));
-        currencies.add(new Currency("PYG", "Paraguayan Guarani"));
-        currencies.add(new Currency("PEN", "Peruvian Sol"));
-        currencies.add(new Currency("UYU", "Uruguayan Peso"));
-        currencies.add(new Currency("VES", "Venezuelan Bolívar"));*/
 
         Map<Integer, Currency> currencies = new HashMap<>();
         currencies.put(1, new Currency("USD", "United States Dollar"));
