@@ -1,10 +1,10 @@
-package org.example.service;
+package one.challenge.service;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import org.example.api.CurrencyApi;
-import org.example.modelos.Currency;
+import one.challenge.modelos.Currency;
+import one.challenge.api.CurrencyApi;
 
 import java.util.HashMap;
 import java.util.Map;

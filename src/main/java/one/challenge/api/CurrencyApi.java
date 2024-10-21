@@ -1,4 +1,4 @@
-package org.example.api;
+package one.challenge.api;
 
 import java.net.URI;
 import java.net.http.HttpClient;

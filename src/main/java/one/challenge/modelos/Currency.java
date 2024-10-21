@@ -1,4 +1,4 @@
-package org.example.modelos;
+package one.challenge.modelos;
 
 public class Currency {
     private String code;

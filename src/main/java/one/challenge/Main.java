@@ -1,7 +1,7 @@
-package org.example;
+package one.challenge;
 
-import org.example.modelos.Currency;
-import org.example.service.ExchangeRateService;
+import one.challenge.modelos.Currency;
+import one.challenge.service.ExchangeRateService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
