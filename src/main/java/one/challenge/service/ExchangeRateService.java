@@ -18,7 +18,7 @@ public class ExchangeRateService {
         Double resultadoConversion = jsonObject.get("conversion_result").getAsDouble();
         String result =
                 amount.toString() + " " + jsonObject.get("base_code").toString().replace("\"", "") +" --> "+
-                        resultadoConversion + " " +
+                        String.format("%.0f", resultadoConversion) + " " +
                         jsonObject.get("target_code").toString().replace("\"", "");
         return result;
     }
