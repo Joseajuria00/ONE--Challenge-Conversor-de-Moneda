@@ -22,6 +22,14 @@ Desarrollar un programa de conversor de monedas en Java con las siguientes carac
 * **Maven**: Herramienta de gestión y construcción para el proyecto.
 
 ## Ejecución del Programa
+#### Menú de inicio
+![Menu de inicio](images/menu.png)
+#### Divisas Disponibles
+![Divisas Disponibles](images/showCurrencies.png)
+#### Conversión entre Monedas
+![Conversion entre Monedas](images/performConversion.png)
+#### Historial de Conversiones
+![ Historial de Conversiones](images/conversionHistory.png)
 
 ## 📞 Contacto
 * GitHub: [Joseajuria00](https://github.com/Joseajuria00)
