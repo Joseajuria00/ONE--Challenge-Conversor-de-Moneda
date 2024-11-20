@@ -33,4 +33,4 @@ Desarrollar un programa de conversor de monedas en Java con las siguientes carac
 
 ## 📞 Contacto
 * GitHub: [Joseajuria00](https://github.com/Joseajuria00)
-* LinkedIn: [Iam Anthony Marcelo Alvarez Orellana](https://www.linkedin.com/in/iam-anthony-marcelo-alvarez-orellana/)
+* LinkedIn: [José Ajuriagogeascoa](https://www.linkedin.com/in/joseajuriagogeascoa/)
